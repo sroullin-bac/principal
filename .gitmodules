@@ -1,0 +1,3 @@
+[submodule "subrepotest"]
+	path = subrepotest
+	url = https://github.com/sroullin-bac/subrepotest.git
